@@ -4,6 +4,19 @@ languageCode = "zh-Hans"
 title = "g1eny0ung's Blog"
 theme = "dream"
 
+[languages]
+  [languages.zh]
+    title = '我的梦境博客'
+    languageName = '中文'
+    contentDir = 'content/zh'
+    weight = 1
+
+  [languages.en]
+    title = 'My Dream Blog'
+    languageName = 'English'
+    contentDir = 'content/en'
+    weight = 2
+
 enableGitInfo = true
 enableRobotsTXT = true
 
