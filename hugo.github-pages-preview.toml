@@ -1,19 +1,32 @@
-baseURL = "https://g1eny0ung.github.io/blog"
+baseURL = "https://027xiguapi.github.io/HowToCook"
 defaultContentLanguage = "zh"
 languageCode = "zh-Hans"
-title = "g1eny0ung's Blog"
+title = "027xiguapi's Blog"
 theme = "dream"
+
+[languages]
+  [languages.zh]
+    title = '怎么做菜'
+    languageName = '中文'
+    contentDir = 'content/zh'
+    weight = 1
+
+  [languages.en]
+    title = 'How to cook'
+    languageName = 'English'
+    contentDir = 'content/en'
+    weight = 2
 
 enableGitInfo = true
 enableRobotsTXT = true
 
 hasCJKLanguage = true
 
-# [services]
-# [services.disqus]
-# shortname = "g1eny0ung"
-# [services.googleAnalytics]
-# ID = "G-K6V0YY3HWS"
+[services]
+[services.disqus]
+shortname = "027xiguapi"
+[services.googleAnalytics]
+ID = "G-K6V0YY3HWS"
 
 [markup]
 [markup.goldmark.parser]
@@ -26,7 +39,7 @@ unsafe = true
 enable = true
 [markup.goldmark.extensions.passthrough.delimiters]
 block = [['\[', '\]'], ['$$', '$$']]
-inline = [['\(', '\)']]
+inline = [['\(', '\)'], ['$', '$']]
 [markup.highlight]
 noClasses = false
 
@@ -36,6 +49,8 @@ noClasses = false
 # series = "series"
 
 [params]
+# zenMode = true
+
 lightTheme = "emerald"
 darkTheme = "forest"
 
@@ -44,17 +59,17 @@ darkTheme = "forest"
 
 images = ["img/global-background.jpg"]
 
-author = "g1eny0ung"
-description = "The life record of g1eny0ung is presented here."
+author = "027xiguapi"
+description = "The life record of 027xiguapi is presented here."
 avatar = "img/personal/avatar.jpg"
-headerTitle = "g1eny0ung's Blog"
+headerTitle = "027xiguapi's Blog"
 motto = "与其感慨路难行，不如马上出发。"
 
 # footerBottomText = ""
 
 rss = true
 
-# utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
+utterancesRepo = "027xiguapi/027xiguapi.github.io"
 
 # valine = true
 # LEANCLOUD_APP_ID = ""
@@ -74,8 +89,8 @@ customSyntaxHighlighting = true
 
 # options
 stickyNav = true
-# reorderNavItems = ["about", "search", "rss", "posts", "categories", "tags"]
-collapseNavItems = ["posts", "categories", "tags"]
+reorderNavItems = ["about", "search", "github", "posts", "categories", "tags", "rss"]
+collapseNavItems = ["posts", "categories", "tags", "rss"]
 # noDefaultSummaryCover = true
 showTableOfContents = true
 showSummaryCoverInPost = true
@@ -83,7 +98,12 @@ imageZoomableInPost = true
 showPrevNextPost = true
 # reorderShares = ["x", "facebook", "whatsapp"]
 
+# https://gohugo.io/templates/embedded/#configure-x-twitter-cards
+[params.social]
+twitter = "027xiguapi"
+
 [params.navItems]
+github = { href = "https://github.com/027xiguapi/HowToCook", target = "_blank", icon = "logo-github", title = "GitHub" }
 
 [params.advanced]
 customCSS = ["css/custom.css"]
