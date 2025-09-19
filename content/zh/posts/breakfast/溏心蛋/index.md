@@ -2,11 +2,12 @@
 title: 溏心蛋
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 溏心蛋.jpg
 images:
   - 溏心蛋.jpg
 categories:
-  - breakfast
+  - 早餐
 ---
 
 # 溏心蛋的做法

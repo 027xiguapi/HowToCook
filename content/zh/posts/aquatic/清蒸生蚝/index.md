@@ -2,11 +2,12 @@
 title: 清蒸生蚝
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 清蒸生蚝.jpg
 images:
   - 清蒸生蚝.jpg
 categories:
-  - aquatic
+  - 水产
 ---
 
 # 清蒸生蚝的做法

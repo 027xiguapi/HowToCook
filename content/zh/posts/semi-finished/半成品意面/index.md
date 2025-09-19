@@ -2,11 +2,12 @@
 title: 半成品意面
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 半成品意面.jpg
 images:
   - 半成品意面.jpg
 categories:
-  - semi-finished
+  - 半成品加工
 ---
 
 # 半成品意面的做法

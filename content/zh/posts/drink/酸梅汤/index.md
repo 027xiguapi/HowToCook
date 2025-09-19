@@ -2,16 +2,17 @@
 title: 酸梅汤
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 酸梅汤.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: sour_plum_soup.jpg
 images:
-  - 酸梅汤.jpg
+  - sour_plum_soup.jpg
 categories:
-  - drink
+  - 饮料
 ---
 
 # 酸梅汤的做法
 
-![酸梅汤](./imges/sour_plum_soup.jpg)
+![酸梅汤](./sour_plum_soup.jpg)
 
 视频演示： [链接](https://www.bilibili.com/video/BV1164y1F7hv/)
 

@@ -2,11 +2,19 @@
 title: 茄子肉煎饼
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 茄子肉煎饼.jpg
 images:
+  - 1茄片肉片.jpg
+  - 2米粉250g.jpg
+  - 3米粉面粉鸡蛋.jpg
+  - 4混合.jpg
+  - 5起锅烧油.jpg
+  - 6开始煎.jpg
+  - 7撒盐准备起锅.jpg
   - 茄子肉煎饼.jpg
 categories:
-  - staple
+  - 主食
 ---
 
 # 茄子肉煎饼的做法

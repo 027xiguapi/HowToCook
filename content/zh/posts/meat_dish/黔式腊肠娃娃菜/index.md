@@ -2,11 +2,12 @@
 title: 黔式腊肠娃娃菜
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 黔式腊肠娃娃菜.jpg
 images:
   - 黔式腊肠娃娃菜.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 黔式腊肠娃娃菜的做法

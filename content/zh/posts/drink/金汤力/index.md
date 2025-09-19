@@ -2,11 +2,12 @@
 title: 金汤力
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 金汤力.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: gin-tonic.jpg
 images:
-  - 金汤力.jpg
+  - gin-tonic.jpg
 categories:
-  - drink
+  - 饮料
 ---
 
 # 金汤力的做法

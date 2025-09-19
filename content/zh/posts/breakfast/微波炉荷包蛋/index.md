@@ -2,11 +2,12 @@
 title: 微波炉荷包蛋
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 微波炉荷包蛋.jpg
 images:
   - 微波炉荷包蛋.jpg
 categories:
-  - breakfast
+  - 早餐
 ---
 
 # 微波炉荷包蛋的做法

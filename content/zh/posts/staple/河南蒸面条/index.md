@@ -2,11 +2,12 @@
 title: 河南蒸面条
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 河南蒸面条.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 河南蒸面条.png
 images:
-  - 河南蒸面条.jpg
+  - 河南蒸面条.png
 categories:
-  - staple
+  - 主食
 ---
 
 

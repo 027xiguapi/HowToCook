@@ -2,11 +2,12 @@
 title: 清蒸鳜鱼
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 清蒸鳜鱼.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 清蒸鳜鱼成品图.jpg
 images:
-  - 清蒸鳜鱼.jpg
+  - 清蒸鳜鱼成品图.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 清蒸鳜鱼的做法

@@ -2,11 +2,12 @@
 title: 榄菜肉末四季豆
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 榄菜肉末四季豆.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 榄菜肉末四季豆.JPG
 images:
-  - 榄菜肉末四季豆.jpg
+  - 榄菜肉末四季豆.JPG
 categories:
-  - vegetable_dish
+  - 素菜
 ---
 
 # 榄菜肉末四季豆的做法

@@ -2,11 +2,12 @@
 title: 洋葱炒鸡蛋
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 洋葱炒鸡蛋.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 1.jpeg
 images:
-  - 洋葱炒鸡蛋.jpg
+  - 1.jpeg
 categories:
-  - vegetable_dish
+  - 素菜
 ---
 
 # 洋葱炒鸡蛋的做法

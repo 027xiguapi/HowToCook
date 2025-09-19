@@ -1,12 +1,16 @@
+
+
 ---
 title: 奶酪培根通心粉
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 奶酪培根通心粉.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: onepot.png
 images:
-  - 奶酪培根通心粉.jpg
+  - onepot.png
+  - oven.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 奶酪培根通心粉的做法

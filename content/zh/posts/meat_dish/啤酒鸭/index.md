@@ -2,11 +2,12 @@
 title: 啤酒鸭
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 啤酒鸭.jpg
 images:
   - 啤酒鸭.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 啤酒鸭的做法

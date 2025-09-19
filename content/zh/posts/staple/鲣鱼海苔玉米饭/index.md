@@ -2,11 +2,12 @@
 title: 鲣鱼海苔玉米饭
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 鲣鱼海苔玉米饭.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 米饭.jpg
 images:
-  - 鲣鱼海苔玉米饭.jpg
+  - 米饭.jpg
 categories:
-  - staple
+  - 主食
 ---
 
 # 鲣鱼海苔玉米饭的做法

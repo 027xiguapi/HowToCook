@@ -2,11 +2,12 @@
 title: 微波炉腊肠煲仔饭
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 微波炉腊肠煲仔饭.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 微波炉腊肠煲仔饭.png
 images:
-  - 微波炉腊肠煲仔饭.jpg
+  - 微波炉腊肠煲仔饭.png
 categories:
-  - staple
+  - 主食
 ---
 
 # 微波炉腊肠煲仔饭的做法

@@ -2,11 +2,12 @@
 title: 老干妈拌面
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 老干妈拌面.jpg
 images:
   - 老干妈拌面.jpg
 categories:
-  - staple
+  - 主食
 ---
 
 # 老干妈拌面的做法

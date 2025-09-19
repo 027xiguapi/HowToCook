@@ -2,11 +2,12 @@
 title: 桂圆红枣粥
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 桂圆红枣粥.jpg
 images:
   - 桂圆红枣粥.jpg
 categories:
-  - breakfast
+  - 早餐
 ---
 
 # 桂圆红枣粥的做法

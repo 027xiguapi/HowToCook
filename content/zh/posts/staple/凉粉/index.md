@@ -1,12 +1,25 @@
+
+
 ---
 title: 凉粉
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 凉粉.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: lf1.jpg
 images:
-  - 凉粉.jpg
+  - lf1.jpg
+  - lf2.jpg
+  - lf3.jpg
+  - lf4.jpg
+  - lf5.jpg
+  - lf6.jpg
+  - lf7.jpg
+  - lf8.jpg
+  - lf9.jpg
+  - lf10.jpg
+  - lf11.jpg
 categories:
-  - staple
+  - 主食
 ---
 
 # 凉粉的做法

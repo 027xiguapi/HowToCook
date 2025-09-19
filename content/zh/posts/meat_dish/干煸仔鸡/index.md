@@ -2,11 +2,12 @@
 title: 干煸仔鸡
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 干煸仔鸡.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 干煸仔鸡成品.jpg
 images:
-  - 干煸仔鸡.jpg
+  - 干煸仔鸡成品.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 干煸仔鸡的做法

@@ -2,11 +2,12 @@
 title: 甜辣烤全翅
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 甜辣烤全翅.jpg
 images:
   - 甜辣烤全翅.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 甜辣烤全翅的做法

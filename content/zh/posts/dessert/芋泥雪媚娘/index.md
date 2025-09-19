@@ -2,11 +2,12 @@
 title: 芋泥雪媚娘
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 芋泥雪媚娘.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 芋泥雪媚娘成品.jpg
 images:
-  - 芋泥雪媚娘.jpg
+  - 芋泥雪媚娘成品.jpg
 categories:
-  - dessert
+  - 甜品
 ---
 
 # 芋泥雪媚娘的做法

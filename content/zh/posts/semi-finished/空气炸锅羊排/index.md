@@ -2,11 +2,12 @@
 title: 空气炸锅羊排
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 空气炸锅羊排.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 羊排.jpg
 images:
-  - 空气炸锅羊排.jpg
+  - 羊排.jpg
 categories:
-  - semi-finished
+  - 半成品加工
 ---
 
 # 空气炸锅羊排的做法

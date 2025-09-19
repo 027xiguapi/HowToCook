@@ -2,11 +2,12 @@
 title: 菠萝咖啡特调
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 菠萝咖啡特调.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 菠萝咖啡特调.png
 images:
-  - 菠萝咖啡特调.jpg
+  - 菠萝咖啡特调.png
 categories:
-  - drink
+  - 饮料
 ---
 
 # 菠萝咖啡特调的做法

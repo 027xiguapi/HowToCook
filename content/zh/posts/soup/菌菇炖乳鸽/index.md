@@ -2,11 +2,12 @@
 title: 菌菇炖乳鸽
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 菌菇炖乳鸽.jpg
 images:
   - 菌菇炖乳鸽.jpg
 categories:
-  - soup
+  - 汤与粥
 ---
 
 # 菌菇炖乳鸽的做法

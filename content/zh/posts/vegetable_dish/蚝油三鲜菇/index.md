@@ -2,11 +2,13 @@
 title: 蚝油三鲜菇
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 蚝油三鲜菇.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 1.jpeg
 images:
-  - 蚝油三鲜菇.jpg
+  - 1.jpeg
+  - 2.jpeg
 categories:
-  - vegetable_dish
+  - 素菜
 ---
 
 # 蚝油三鲜菇的做法

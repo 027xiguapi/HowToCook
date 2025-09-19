@@ -2,11 +2,12 @@
 title: 肉蛋盖饭
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 肉蛋盖饭.jpg
 images:
   - 肉蛋盖饭.jpg
 categories:
-  - staple
+  - 主食
 ---
 
 # 肉蛋盖饭的做法

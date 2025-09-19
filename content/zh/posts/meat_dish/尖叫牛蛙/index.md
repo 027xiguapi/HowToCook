@@ -2,11 +2,12 @@
 title: 尖叫牛蛙
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 尖叫牛蛙.jpg
 images:
   - 尖叫牛蛙.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 尖叫牛蛙的做法

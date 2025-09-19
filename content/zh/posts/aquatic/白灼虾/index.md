@@ -2,11 +2,12 @@
 title: 白灼虾
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 白灼虾.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 白灼虾.webp
 images:
-  - 白灼虾.jpg
+  - 白灼虾.webp
 categories:
-  - aquatic
+  - 水产
 ---
 
 # 白灼虾的做法

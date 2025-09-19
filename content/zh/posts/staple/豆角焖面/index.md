@@ -2,11 +2,12 @@
 title: 豆角焖面
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 豆角焖面.jpg
 images:
   - 豆角焖面.jpg
 categories:
-  - staple
+  - 主食
 ---
 
 # 豆角焖面的做法

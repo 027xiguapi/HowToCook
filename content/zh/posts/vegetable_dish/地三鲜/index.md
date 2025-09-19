@@ -2,11 +2,12 @@
 title: 地三鲜
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 地三鲜.jpg
 images:
   - 地三鲜.jpg
 categories:
-  - vegetable_dish
+  - 素菜
 ---
 
 # 地三鲜的做法

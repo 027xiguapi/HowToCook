@@ -1,12 +1,26 @@
+
+
 ---
 title: 水煮牛肉
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 水煮牛肉.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: sznr12.jpg
 images:
-  - 水煮牛肉.jpg
+  - sznr1.jpg
+  - sznr2.jpg
+  - sznr3.jpg
+  - sznr4.jpg
+  - sznr5.jpg
+  - sznr6.jpg
+  - sznr7.jpg
+  - sznr8.jpg
+  - sznr9.jpg
+  - sznr10.jpg
+  - sznr11.jpg
+  - sznr12.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 水煮牛肉的做法

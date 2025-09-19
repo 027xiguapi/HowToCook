@@ -2,11 +2,15 @@
 title: 梅菜扣肉
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 梅菜扣肉.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 1.jpeg
 images:
-  - 梅菜扣肉.jpg
+  - 1.jpeg
+  - 2.jpeg
+  - 3.jpeg
+  - 4.jpeg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 梅菜扣肉的做法

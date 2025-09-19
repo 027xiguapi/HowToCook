@@ -2,11 +2,12 @@
 title: 酸辣土豆丝
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 酸辣土豆丝.jpg
 images:
   - 酸辣土豆丝.jpg
 categories:
-  - vegetable_dish
+  - 素菜
 ---
 
 # 酸辣土豆丝的做法

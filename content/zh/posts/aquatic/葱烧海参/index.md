@@ -2,11 +2,15 @@
 title: 葱烧海参
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 葱烧海参.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 葱烧海参.jpeg
 images:
-  - 葱烧海参.jpg
+  - 葱烧海参.jpeg
+  - 海参.jpeg
+  - 酱汁.jpeg
+  - 葱白.jpeg
 categories:
-  - aquatic
+  - 水产
 ---
 
 # 葱烧海参的做法

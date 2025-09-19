@@ -2,11 +2,12 @@
 title: 砂糖椰子冰沙
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 砂糖椰子冰沙.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 砂糖椰子冰沙-1.jpg
 images:
-  - 砂糖椰子冰沙.jpg
+  - 砂糖椰子冰沙-1.jpg
 categories:
-  - drink
+  - 饮料
 ---
 
 # 砂糖椰子冰沙的做法

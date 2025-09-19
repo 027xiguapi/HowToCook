@@ -2,11 +2,14 @@
 title: 昂刺鱼豆腐汤
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 昂刺鱼豆腐汤.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 昂刺鱼豆腐汤01.jpg
 images:
-  - 昂刺鱼豆腐汤.jpg
+  - 昂刺鱼豆腐汤01.jpg
+  - 昂刺鱼豆腐汤02.jpg
+  - 沙光鱼豆腐汤.jpg
 categories:
-  - soup
+  - 汤与粥
 ---
 
 # 昂刺鱼豆腐汤的做法

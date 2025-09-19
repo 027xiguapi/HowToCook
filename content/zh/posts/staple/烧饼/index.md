@@ -2,11 +2,12 @@
 title: 烧饼
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 烧饼.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 芝麻烧饼.jpg
 images:
-  - 烧饼.jpg
+  - 芝麻烧饼.jpg
 categories:
-  - staple
+  - 主食
 ---
 
 # 芝麻烧饼的做法

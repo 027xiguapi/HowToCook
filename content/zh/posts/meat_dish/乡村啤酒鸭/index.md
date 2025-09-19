@@ -2,11 +2,12 @@
 title: 乡村啤酒鸭
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 乡村啤酒鸭.jpg
 images:
   - 乡村啤酒鸭.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 乡村啤酒鸭的做法

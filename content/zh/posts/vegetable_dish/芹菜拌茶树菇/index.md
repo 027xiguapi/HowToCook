@@ -2,11 +2,13 @@
 title: 芹菜拌茶树菇
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 芹菜拌茶树菇.jpg
 images:
   - 芹菜拌茶树菇.jpg
+  - 闽星茶树菇.jpg
 categories:
-  - vegetable_dish
+  - 素菜
 ---
 
 # 芹菜拌茶树菇的做法

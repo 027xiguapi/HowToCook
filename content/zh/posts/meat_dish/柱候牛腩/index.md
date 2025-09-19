@@ -2,11 +2,27 @@
 title: 柱候牛腩
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 柱候牛腩.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 柱候牛腩.jpeg
 images:
-  - 柱候牛腩.jpg
+  - 土豆切片.jpeg
+  - 柱候牛腩.jpeg
+  - 柱候牛腩配米饭.jpeg
+  - 牛腩入锅.jpeg
+  - 牛腩切块.jpeg
+  - 牛腩此时可开始炖煮.jpeg
+  - 牛腩焯水.jpeg
+  - 牛腩部位.jpeg
+  - 碗1.jpeg
+  - 碗2.jpeg
+  - 碗3.jpeg
+  - 碗4.jpeg
+  - 碗5.jpeg
+  - 碗6.jpeg
+  - 碗7.jpeg
+  - 过滤汤汁.jpeg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 柱候牛腩的做法

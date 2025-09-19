@@ -2,11 +2,12 @@
 title: 咖喱肥牛
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 咖喱肥牛.jpg
 images:
   - 咖喱肥牛.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 咖喱肥牛的做法

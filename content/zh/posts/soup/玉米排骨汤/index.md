@@ -2,11 +2,12 @@
 title: 玉米排骨汤
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 玉米排骨汤.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 玉米排骨汤.jpeg
 images:
-  - 玉米排骨汤.jpg
+  - 玉米排骨汤.jpeg
 categories:
-  - soup
+  - 汤与粥
 ---
 
 # 玉米排骨汤的做法

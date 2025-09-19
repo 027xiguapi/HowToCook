@@ -2,11 +2,13 @@
 title: 冰粉
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 冰粉.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 石凉粉(冰粉)成品1.jpg
 images:
-  - 冰粉.jpg
+  - 石凉粉(冰粉)成品1.jpg
+  - 石凉粉(冰粉)成品2.jpg
 categories:
-  - drink
+  - 饮料
 ---
 
 # 冰粉的做法

@@ -2,11 +2,13 @@
 title: 荷兰豆炒腊肠
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 荷兰豆炒腊肠.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 1.png
 images:
-  - 荷兰豆炒腊肠.jpg
+  - 1.png
+  - 2.png
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 荷兰豆炒腊肠的做法

@@ -2,11 +2,12 @@
 title: 电饭煲三文鱼炊饭
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 电饭煲三文鱼炊饭.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 电饭煲三文鱼炊饭.webp
 images:
-  - 电饭煲三文鱼炊饭.jpg
+  - 电饭煲三文鱼炊饭.webp
 categories:
-  - staple
+  - 主食
 ---
 
 # 电饭煲三文鱼炊饭的做法

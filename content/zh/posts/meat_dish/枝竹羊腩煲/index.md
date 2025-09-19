@@ -2,11 +2,12 @@
 title: 枝竹羊腩煲
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 枝竹羊腩煲.jpg
 images:
   - 枝竹羊腩煲.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 枝竹羊腩煲的做法

@@ -2,11 +2,12 @@
 title: 咖啡椰奶冻
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 咖啡椰奶冻.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 咖啡椰奶冻.png
 images:
-  - 咖啡椰奶冻.jpg
+  - 咖啡椰奶冻.png
 categories:
-  - dessert
+  - 甜品
 ---
 
 # 咖啡椰奶冻的做法

@@ -2,11 +2,12 @@
 title: 豉汁蒸白鱔
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 豉汁蒸白鱔.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 豉汁蒸白鱔.jpeg
 images:
-  - 豉汁蒸白鱔.jpg
+  - 豉汁蒸白鱔.jpeg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 豉汁蒸白鱔的做法

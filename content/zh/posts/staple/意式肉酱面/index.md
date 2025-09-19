@@ -2,11 +2,14 @@
 title: 意式肉酱面
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 意式肉酱面.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: final.jpg
 images:
-  - 意式肉酱面.jpg
+  - final.jpg
+  - sauce.jpg
+  - spaghetti.jpg
 categories:
-  - staple
+  - 主食
 ---
 
 # 意式肉酱面的做法

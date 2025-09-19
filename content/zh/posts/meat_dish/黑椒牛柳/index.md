@@ -2,11 +2,12 @@
 title: 黑椒牛柳
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 黑椒牛柳.jpg
 images:
   - 黑椒牛柳.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 黑椒牛柳的做法

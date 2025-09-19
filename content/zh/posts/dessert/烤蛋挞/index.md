@@ -2,11 +2,12 @@
 title: 烤蛋挞
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 烤蛋挞.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 烤蛋挞.png
 images:
-  - 烤蛋挞.jpg
+  - 烤蛋挞.png
 categories:
-  - dessert
+  - 甜品
 ---
 
 # 烤蛋挞的做法

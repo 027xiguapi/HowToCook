@@ -2,11 +2,12 @@
 title: 无厨师机蜂蜜面包
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 无厨师机蜂蜜面包.jpg
 images:
   - 无厨师机蜂蜜面包.jpg
 categories:
-  - dessert
+  - 甜品
 ---
 
 # 无厨师机蜂蜜面包的做法

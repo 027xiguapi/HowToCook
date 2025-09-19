@@ -2,11 +2,14 @@
 title: 苏格兰蛋
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 苏格兰蛋.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: egg1.png
 images:
-  - 苏格兰蛋.jpg
+  - egg1.png
+  - egg2.png
+  - egg3.png
 categories:
-  - breakfast
+  - 早餐
 ---
 
 <!-- 这是 HowToCook 菜谱仓库中的示例菜谱模板文件。 -->

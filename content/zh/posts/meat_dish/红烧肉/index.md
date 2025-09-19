@@ -1,12 +1,14 @@
 ---
-title: 红烧肉
+title: 简易红烧肉的做法
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 红烧肉.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 000.jpg
 images:
-  - 红烧肉.jpg
+  - 000.jpg
+  - 001.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 简易红烧肉的做法

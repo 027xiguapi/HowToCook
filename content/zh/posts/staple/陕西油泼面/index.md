@@ -2,11 +2,13 @@
 title: 陕西油泼面
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 陕西油泼面.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 成品.png
 images:
-  - 陕西油泼面.jpg
+  - chemian.png
+  - 成品.png
 categories:
-  - staple
+  - 主食
 ---
 
 

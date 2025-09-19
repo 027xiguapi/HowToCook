@@ -2,11 +2,13 @@
 title: 油泼辣子
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 油泼辣子.jpg
 images:
+  - 口水鸡+油泼辣子.jpg
   - 油泼辣子.jpg
 categories:
-  - condiment
+  - 酱料
 ---
 
 # 油泼辣子的做法

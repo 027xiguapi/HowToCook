@@ -2,11 +2,12 @@
 title: 芥末罗氏虾
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 芥末罗氏虾.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 芥末罗氏虾成品.jpg
 images:
-  - 芥末罗氏虾.jpg
+  - 芥末罗氏虾成品.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 芥末罗氏虾的做法

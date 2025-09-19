@@ -2,11 +2,12 @@
 title: 西葫芦炒鸡蛋
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 西葫芦炒鸡蛋.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 西葫芦炒鸡蛋.jpeg
 images:
-  - 西葫芦炒鸡蛋.jpg
+  - 西葫芦炒鸡蛋.jpeg
 categories:
-  - vegetable_dish
+  - 素菜
 ---
 
 # 西葫芦炒鸡蛋的做法

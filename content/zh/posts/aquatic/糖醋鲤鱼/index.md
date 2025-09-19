@@ -2,11 +2,13 @@
 title: 糖醋鲤鱼
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 糖醋鲤鱼.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 成品.jpg
 images:
-  - 糖醋鲤鱼.jpg
+  - 成品.jpg
+  - 腌制.jpg
 categories:
-  - aquatic
+  - 水产
 ---
 
 # 糖醋鲤鱼的做法

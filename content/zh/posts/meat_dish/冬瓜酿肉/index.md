@@ -2,11 +2,17 @@
 title: 冬瓜酿肉
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 冬瓜酿肉.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 冬瓜酿肉成品.jpg
 images:
-  - 冬瓜酿肉.jpg
+  - 冬瓜形状.jpg
+  - 冬瓜酿肉成品.jpg
+  - 卷肉.jpg
+  - 打鸡蛋.jpg
+  - 摆盘.jpg
+  - 腌制好的冬瓜.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 冬瓜酿肉的做法

@@ -2,11 +2,12 @@
 title: 银耳莲子粥
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 银耳莲子粥.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 银耳莲子粥.png
 images:
-  - 银耳莲子粥.jpg
+  - 银耳莲子粥.png
 categories:
-  - soup
+  - 汤与粥
 ---
 
 # 银耳莲子粥的做法

@@ -2,11 +2,12 @@
 title: 简易版炒糖色
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 简易版炒糖色.jpg
 images:
   - 简易版炒糖色.jpg
 categories:
-  - condiment
+  - 酱料
 ---
 
 # 简易版炒糖色的做法

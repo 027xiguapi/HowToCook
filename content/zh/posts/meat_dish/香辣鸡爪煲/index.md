@@ -2,11 +2,13 @@
 title: 香辣鸡爪煲
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 香辣鸡爪煲.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: result1.jpg
 images:
-  - 香辣鸡爪煲.jpg
+  - result1.jpg
+  - result2.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 香辣鸡爪煲的做法

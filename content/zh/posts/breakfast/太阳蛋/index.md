@@ -2,11 +2,12 @@
 title: 太阳蛋
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 太阳蛋.jpg
 images:
   - 太阳蛋.jpg
 categories:
-  - breakfast
+  - 早餐
 ---
 
 # 太阳蛋的做法

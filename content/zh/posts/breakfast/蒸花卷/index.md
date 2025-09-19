@@ -2,11 +2,12 @@
 title: 蒸花卷
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 蒸花卷.jpg
 images:
   - 蒸花卷.jpg
 categories:
-  - breakfast
+  - 早餐
 ---
 
 # 蒸花卷的做法

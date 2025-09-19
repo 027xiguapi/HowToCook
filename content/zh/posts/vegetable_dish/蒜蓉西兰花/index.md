@@ -2,11 +2,12 @@
 title: 蒜蓉西兰花
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 蒜蓉西兰花.jpg
 images:
   - 蒜蓉西兰花.jpg
 categories:
-  - vegetable_dish
+  - 素菜
 ---
 
 # 蒜蓉西兰花的做法

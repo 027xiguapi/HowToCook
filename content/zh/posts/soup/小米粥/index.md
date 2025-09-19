@@ -2,11 +2,12 @@
 title: 小米粥
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 小米粥.jpg
 images:
   - 小米粥.jpg
 categories:
-  - soup
+  - 汤与粥
 ---
 
 # 小米粥的做法

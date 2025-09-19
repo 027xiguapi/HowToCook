@@ -2,11 +2,12 @@
 title: 柠檬水
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 柠檬水.jpg
 images:
   - 柠檬水.jpg
 categories:
-  - drink
+  - 饮料
 ---
 
 # 柠檬水的做法

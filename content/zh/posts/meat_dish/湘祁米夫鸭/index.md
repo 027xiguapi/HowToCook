@@ -1,12 +1,19 @@
+
+
 ---
 title: 湘祁米夫鸭
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 湘祁米夫鸭.jpg
 images:
+  - step①：准备米粉.jpg
+  - step②：煸炒鸭子.jpg
+  - step③：米粉裹鸭.jpg
+  - step④：高压锅蒸煮.jpg
   - 湘祁米夫鸭.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 湘祁米夫鸭的做法

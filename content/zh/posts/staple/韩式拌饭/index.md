@@ -2,11 +2,12 @@
 title: 韩式拌饭
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 韩式拌饭.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 韩式拌饭.png
 images:
-  - 韩式拌饭.jpg
+  - 韩式拌饭.png
 categories:
-  - staple
+  - 主食
 ---
 
 # 韩式拌饭的做法

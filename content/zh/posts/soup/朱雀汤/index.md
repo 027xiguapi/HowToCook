@@ -2,11 +2,12 @@
 title: 朱雀汤
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 朱雀汤.jpg
 images:
   - 朱雀汤.jpg
 categories:
-  - soup
+  - 汤与粥
 ---
 
 # 朱雀汤的做法

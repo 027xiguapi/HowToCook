@@ -2,11 +2,12 @@
 title: 酱牛肉
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 酱牛肉.jpg
 images:
   - 酱牛肉.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 酱牛肉的做法

@@ -2,11 +2,12 @@
 title: 蛋炒饭
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 蛋炒饭.jpg
 images:
   - 蛋炒饭.jpg
 categories:
-  - staple
+  - 主食
 ---
 
 # 蛋炒饭的做法

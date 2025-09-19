@@ -2,11 +2,12 @@
 title: 炸酱面
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 炸酱面.jpg
 images:
   - 炸酱面.jpg
 categories:
-  - staple
+  - 主食
 ---
 
 # 炸酱面的做法
@@ -29,7 +30,7 @@ categories:
 每份：
 
 * 肉丁/肉末 150g
-* 如果 *面条* 选择了*挂面*：150g  
+* 如果 *面条* 选择了*挂面*：150g
   如果 *面条* 选择了*普通面条*：250g
 * 葱 15g
 * 菜码 总量 35g

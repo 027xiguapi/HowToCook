@@ -2,11 +2,12 @@
 title: 披萨饼皮
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 披萨饼皮.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 001.jpeg
 images:
-  - 披萨饼皮.jpg
+  - 001.jpeg
 categories:
-  - staple
+  - 主食
 ---
 
 # 披萨饼皮的做法

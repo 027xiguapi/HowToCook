@@ -2,11 +2,12 @@
 title: 炸鲜奶
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 炸鲜奶.jpg
 images:
   - 炸鲜奶.jpg
 categories:
-  - dessert
+  - 甜品
 ---
 
 # 炸鲜奶的做法
@@ -58,7 +59,7 @@ categories:
 
 - 煮牛奶时必须小火慢煮，才能均匀受热
 - 奶糊下锅时油温不能过高或过低，最好保持在 5 分热
-  
+
 - 参考资料：[王刚的教学视频](https://www.bilibili.com/video/BV1U7411E7LH/)
 
 如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。

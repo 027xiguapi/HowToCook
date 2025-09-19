@@ -2,11 +2,12 @@
 title: 鳊鱼炖豆腐
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 鳊鱼炖豆腐.jpg
 images:
   - 鳊鱼炖豆腐.jpg
 categories:
-  - aquatic
+  - 水产
 ---
 
 

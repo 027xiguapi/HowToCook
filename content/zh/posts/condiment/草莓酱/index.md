@@ -2,11 +2,15 @@
 title: 草莓酱
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 草莓酱.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 做好的草莓酱.png
 images:
-  - 草莓酱.jpg
+  - 做好的草莓酱.png
+  - 洗好的草莓.jpeg
+  - 混合好的草莓.jpeg
+  - 熬煮的草莓.jpeg
 categories:
-  - condiment
+  - 酱料
 ---
 
 # 草莓酱的做法

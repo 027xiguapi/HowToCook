@@ -2,11 +2,12 @@
 title: 混合烤鱼
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 混合烤鱼.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 烤鱼.jpg
 images:
-  - 混合烤鱼.jpg
+  - 烤鱼.jpg
 categories:
-  - aquatic
+  - 水产
 ---
 
 # 烤鱼的做法

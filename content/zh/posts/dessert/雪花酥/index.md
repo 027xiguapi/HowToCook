@@ -2,11 +2,12 @@
 title: 雪花酥
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 雪花酥.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 雪花酥成品.jpg
 images:
-  - 雪花酥.jpg
+  - 雪花酥成品.jpg
 categories:
-  - dessert
+  - 甜品
 ---
 
 # 雪花酥的做法

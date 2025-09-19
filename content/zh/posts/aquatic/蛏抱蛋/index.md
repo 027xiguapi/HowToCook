@@ -2,11 +2,14 @@
 title: 蛏抱蛋
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 蛏抱蛋.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 1.jpeg
 images:
-  - 蛏抱蛋.jpg
+  - 1.jpeg
+  - 2.jpeg
+  - 3.jpeg
 categories:
-  - aquatic
+  - 水产
 ---
 
 # 蛏抱蛋的做法

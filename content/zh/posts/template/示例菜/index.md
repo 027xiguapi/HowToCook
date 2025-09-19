@@ -2,11 +2,12 @@
 title: 示例菜
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 示例菜.jpg
 images:
   - 示例菜.jpg
 categories:
-  - template
+  - 模板
 ---
 
 <!-- 这是 HowToCook 菜谱仓库中的示例菜谱模板文件。 -->

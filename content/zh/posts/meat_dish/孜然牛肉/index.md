@@ -2,11 +2,12 @@
 title: 孜然牛肉
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 孜然牛肉.jpg
 images:
   - 孜然牛肉.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 孜然牛肉的做法

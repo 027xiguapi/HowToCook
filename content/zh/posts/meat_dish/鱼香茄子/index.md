@@ -2,11 +2,18 @@
 title: 鱼香茄子
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 鱼香茄子.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: yxqz1.jpg
 images:
-  - 鱼香茄子.jpg
+  - yxqz1.jpg
+  - yxqz2.jpg
+  - yxqz3.jpg
+  - yxqz4.jpg
+  - yxqz5.jpg
+  - yxqz6.jpg
+  - yxqz7.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 鱼香茄子的做法

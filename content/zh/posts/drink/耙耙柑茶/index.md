@@ -2,11 +2,12 @@
 title: 耙耙柑茶
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 耙耙柑茶.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: citrus-tea.jpg
 images:
-  - 耙耙柑茶.jpg
+  - citrus-tea.jpg
 categories:
-  - drink
+  - 饮料
 ---
 
 # 耙耙柑茶的做法

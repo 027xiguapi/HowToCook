@@ -2,11 +2,12 @@
 title: 蒸卤面
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 蒸卤面.jpg
 images:
   - 蒸卤面.jpg
 categories:
-  - staple
+  - 主食
 ---
 
 

@@ -2,11 +2,12 @@
 title: 老友猪肉粉
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 老友猪肉粉.jpg
 images:
   - 老友猪肉粉.jpg
 categories:
-  - staple
+  - 主食
 ---
 
 # 老友猪肉粉的做法

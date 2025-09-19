@@ -2,11 +2,12 @@
 title: 糖拌西红柿
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 糖拌西红柿.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 火山飘雪.jpg
 images:
-  - 糖拌西红柿.jpg
+  - 火山飘雪.jpg
 categories:
-  - vegetable_dish
+  - 素菜
 ---
 
 # 糖拌西红柿的做法

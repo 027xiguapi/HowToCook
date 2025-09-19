@@ -2,11 +2,12 @@
 title: 白灼菜心
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 白灼菜心.jpg
 images:
   - 白灼菜心.jpg
 categories:
-  - vegetable_dish
+  - 素菜
 ---
 
 # 白灼菜心的做法

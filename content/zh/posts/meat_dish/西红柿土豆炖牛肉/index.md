@@ -2,11 +2,12 @@
 title: 西红柿土豆炖牛肉
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 西红柿土豆炖牛肉.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: abaaba_1.png
 images:
-  - 西红柿土豆炖牛肉.jpg
+  - abaaba_1.png
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 西红柿土豆炖牛肉的做法

@@ -2,11 +2,12 @@
 title: 烙饼
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 烙饼.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 成品.jpg
 images:
-  - 烙饼.jpg
+  - 成品.jpg
 categories:
-  - staple
+  - 主食
 ---
 
 # 烙饼的做法

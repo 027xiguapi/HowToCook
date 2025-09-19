@@ -2,11 +2,12 @@
 title: 炒意大利面
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 炒意大利面.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: a.jpg
 images:
-  - 炒意大利面.jpg
+  - a.jpg
 categories:
-  - staple
+  - 主食
 ---
 
 

@@ -2,11 +2,12 @@
 title: 青椒土豆炒肉
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 青椒土豆炒肉.jpg
 images:
   - 青椒土豆炒肉.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 青椒土豆炒肉的做法

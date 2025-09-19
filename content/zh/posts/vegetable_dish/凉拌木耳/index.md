@@ -2,11 +2,21 @@
 title: 凉拌木耳
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 凉拌木耳.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 10.jpg
 images:
-  - 凉拌木耳.jpg
+  - 1.jpg
+  - 2.jpg
+  - 3.jpg
+  - 4.jpg
+  - 5.jpg
+  - 6.jpg
+  - 7.jpg
+  - 8.jpg
+  - 9.jpg
+  - 10.jpg
 categories:
-  - vegetable_dish
+  - 素菜
 ---
 
 # 凉拌木耳的做法

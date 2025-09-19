@@ -2,11 +2,12 @@
 title: 鲤鱼炖白菜
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 鲤鱼炖白菜.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 鲤鱼炖白菜.jpeg
 images:
-  - 鲤鱼炖白菜.jpg
+  - 鲤鱼炖白菜.jpeg
 categories:
-  - aquatic
+  - 水产
 ---
 
 # 鲤鱼炖白菜的做法

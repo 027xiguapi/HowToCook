@@ -2,11 +2,12 @@
 title: 羊排焖面
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 羊排焖面.jpg
 images:
   - 羊排焖面.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 羊排焖面的做法

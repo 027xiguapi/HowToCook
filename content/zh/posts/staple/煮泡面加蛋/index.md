@@ -2,11 +2,12 @@
 title: 煮泡面加蛋
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 煮泡面加蛋.jpg
 images:
   - 煮泡面加蛋.jpg
 categories:
-  - staple
+  - 主食
 ---
 
 # 煮泡面加蛋的做法

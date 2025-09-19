@@ -2,11 +2,12 @@
 title: 牛排
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 牛排.jpg
 images:
   - 牛排.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 
@@ -102,7 +103,7 @@ categories:
 
 - 对于电磁炉：
   - 高火：功率 1.8Kw - 2.2kw。
-  - 中火：功率 800w - 1.4kw。  
+  - 中火：功率 800w - 1.4kw。
   - 小火：功率 200w - 600w。
 - 对于燃气灶：
   - 高火：旋转气阀至最大出气速度的 70%-90%。

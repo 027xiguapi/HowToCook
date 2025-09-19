@@ -2,11 +2,12 @@
 title: Mojito莫吉托
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: Mojito莫吉托.jpg
 images:
   - Mojito莫吉托.jpg
 categories:
-  - drink
+  - 饮料
 ---
 
 

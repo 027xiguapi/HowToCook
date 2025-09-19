@@ -2,11 +2,12 @@
 title: 扬州炒饭
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 扬州炒饭.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: veg.png
 images:
-  - 扬州炒饭.jpg
+  - veg.png
 categories:
-  - staple
+  - 主食
 ---
 
 # 扬州炒饭的做法

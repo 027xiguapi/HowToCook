@@ -2,11 +2,13 @@
 title: 酒酿醪糟
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 酒酿醪糟.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 酒酿米糕.jpeg
 images:
-  - 酒酿醪糟.jpg
+  - 酒酿米糕.jpeg
+  - 酒酿醪糟.jpeg
 categories:
-  - drink
+  - 饮料
 ---
 
 # 酒酿（醪糟）的做法

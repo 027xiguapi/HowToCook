@@ -2,11 +2,12 @@
 title: 腊八粥
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 腊八粥.jpg
 images:
   - 腊八粥.jpg
 categories:
-  - soup
+  - 汤与粥
 ---
 
 # 腊八粥的做法

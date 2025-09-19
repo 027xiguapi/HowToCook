@@ -2,11 +2,12 @@
 title: 蛋煎糍粑
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 蛋煎糍粑.jpg
 images:
   - 蛋煎糍粑.jpg
 categories:
-  - breakfast
+  - 早餐
 ---
 
 # 蛋煎糍粑的做法

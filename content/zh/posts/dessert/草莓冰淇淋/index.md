@@ -2,11 +2,12 @@
 title: 草莓冰淇淋
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 草莓冰淇淋.jpg
 images:
   - 草莓冰淇淋.jpg
 categories:
-  - dessert
+  - 甜品
 ---
 
 

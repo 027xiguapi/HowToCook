@@ -2,11 +2,12 @@
 title: 可乐鸡翅
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 可乐鸡翅.jpg
 images:
   - 可乐鸡翅.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 可乐鸡翅的做法

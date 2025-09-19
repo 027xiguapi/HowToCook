@@ -2,11 +2,12 @@
 title: 煎饺
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 煎饺.jpg
 images:
   - 煎饺.jpg
 categories:
-  - breakfast
+  - 早餐
 ---
 
 

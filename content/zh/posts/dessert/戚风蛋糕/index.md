@@ -2,11 +2,20 @@
 title: 戚风蛋糕
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 戚风蛋糕.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: DSC08606.jpg
 images:
-  - 戚风蛋糕.jpg
+  - DSC08606.jpg
+  - DSC08608.jpg
+  - DSC08612.jpg
+  - DSC08618.jpg
+  - DSC08621.jpg
+  - DSC08627.jpg
+  - DSC08716.jpg
+  - IMG_0269.jpg
+  - IMG_1516.jpg
 categories:
-  - dessert
+  - 甜品
 ---
 
 # 戚风蛋糕的做法

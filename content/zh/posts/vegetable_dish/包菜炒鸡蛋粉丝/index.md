@@ -2,11 +2,12 @@
 title: 包菜炒鸡蛋粉丝
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 包菜炒鸡蛋粉丝.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 1.jpg
 images:
-  - 包菜炒鸡蛋粉丝.jpg
+  - 1.jpg
 categories:
-  - vegetable_dish
+  - 素菜
 ---
 
 # 包菜炒鸡蛋粉丝的做法

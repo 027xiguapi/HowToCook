@@ -2,11 +2,12 @@
 title: 日式肥牛丼饭
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 日式肥牛丼饭.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 成品.png
 images:
-  - 日式肥牛丼饭.jpg
+  - 成品.png
 categories:
-  - staple
+  - 主食
 ---
 
 # 日式肥牛丼饭的做法

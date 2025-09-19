@@ -2,11 +2,12 @@
 title: 水煮玉米
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 水煮玉米.jpg
 images:
   - 水煮玉米.jpg
 categories:
-  - breakfast
+  - 早餐
 ---
 
 # 水煮玉米的做法

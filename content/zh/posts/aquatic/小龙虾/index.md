@@ -2,11 +2,12 @@
 title: 小龙虾
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 小龙虾.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 成品.jpg
 images:
-  - 小龙虾.jpg
+  - 成品.jpg
 categories:
-  - aquatic
+  - 水产
 ---
 
 # 小龙虾的做法

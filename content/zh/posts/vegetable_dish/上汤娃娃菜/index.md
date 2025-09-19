@@ -2,11 +2,12 @@
 title: 上汤娃娃菜
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 上汤娃娃菜.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 上汤娃娃菜.png
 images:
-  - 上汤娃娃菜.jpg
+  - 上汤娃娃菜.png
 categories:
-  - vegetable_dish
+  - 素菜
 ---
 
 # 上汤娃娃菜的做法

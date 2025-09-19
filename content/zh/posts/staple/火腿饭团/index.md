@@ -2,11 +2,12 @@
 title: 火腿饭团
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 火腿饭团.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 饭团.png
 images:
-  - 火腿饭团.jpg
+  - 饭团.png
 categories:
-  - staple
+  - 主食
 ---
 
 # 火腿饭团的做法

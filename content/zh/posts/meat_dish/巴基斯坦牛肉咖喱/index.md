@@ -2,11 +2,17 @@
 title: 巴基斯坦牛肉咖喱
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 巴基斯坦牛肉咖喱.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 巴基斯坦牛肉咖喱.png
 images:
-  - 巴基斯坦牛肉咖喱.jpg
+  - 倒入番茄蓉.png
+  - 巴基斯坦牛肉咖喱.png
+  - 油.png
+  - 牛肉.png
+  - 番茄蓉.png
+  - 红.png
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 巴基斯坦牛肉咖喱的做法

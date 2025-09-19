@@ -2,11 +2,12 @@
 title: 皮蛋瘦肉粥
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 皮蛋瘦肉粥.jpg
 images:
   - 皮蛋瘦肉粥.jpg
 categories:
-  - soup
+  - 汤与粥
 ---
 
 # 皮蛋瘦肉粥的做法

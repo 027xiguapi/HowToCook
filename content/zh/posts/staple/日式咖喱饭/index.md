@@ -2,11 +2,12 @@
 title: 日式咖喱饭
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 日式咖喱饭.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 成品.jpg
 images:
-  - 日式咖喱饭.jpg
+  - 成品.jpg
 categories:
-  - staple
+  - 主食
 ---
 
 # 日式咖喱饭的做法

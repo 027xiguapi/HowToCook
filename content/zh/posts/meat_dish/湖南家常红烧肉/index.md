@@ -2,11 +2,12 @@
 title: 湖南家常红烧肉
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 湖南家常红烧肉.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 湖南家常红烧肉.jpeg
 images:
-  - 湖南家常红烧肉.jpg
+  - 湖南家常红烧肉.jpeg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 湖南家常红烧肉的做法

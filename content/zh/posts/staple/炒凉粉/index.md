@@ -2,11 +2,13 @@
 title: 炒凉粉
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 炒凉粉.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: chaoliangfen.jpg
 images:
-  - 炒凉粉.jpg
+  - chaoliangfen.jpg
+  - 炒凉粉成品.jpg
 categories:
-  - staple
+  - 主食
 ---
 
 # 炒凉粉的做法

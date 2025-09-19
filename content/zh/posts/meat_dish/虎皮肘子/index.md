@@ -2,11 +2,12 @@
 title: 虎皮肘子
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 虎皮肘子.jpg
 images:
   - 虎皮肘子.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 虎皮肘子的做法

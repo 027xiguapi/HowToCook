@@ -2,11 +2,12 @@
 title: 农家一碗香
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 农家一碗香.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 农家一碗香成品.jpg
 images:
-  - 农家一碗香.jpg
+  - 农家一碗香成品.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 农家一碗香的做法

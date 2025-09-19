@@ -2,11 +2,12 @@
 title: 冬瓜茶
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 冬瓜茶.jpg
 images:
   - 冬瓜茶.jpg
 categories:
-  - drink
+  - 饮料
 ---
 
 # 冬瓜茶的做法

@@ -2,11 +2,16 @@
 title: 西红柿鸡蛋挂面
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 西红柿鸡蛋挂面.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: tomatoNoodle.jpg
 images:
-  - 西红柿鸡蛋挂面.jpg
+  - food.jpg
+  - fryEgg.jpg
+  - pretreatFood.jpg
+  - tomato.jpg
+  - tomatoNoodle.jpg
 categories:
-  - staple
+  - 主食
 ---
 
 # 西红柿鸡蛋挂面的做法

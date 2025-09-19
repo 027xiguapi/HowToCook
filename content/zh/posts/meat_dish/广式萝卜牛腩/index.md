@@ -2,11 +2,12 @@
 title: 广式萝卜牛腩
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 广式萝卜牛腩.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 广式萝卜牛腩.webp
 images:
-  - 广式萝卜牛腩.jpg
+  - 广式萝卜牛腩.webp
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 广式萝卜牛腩的做法

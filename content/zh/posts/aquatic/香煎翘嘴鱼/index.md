@@ -2,11 +2,12 @@
 title: 香煎翘嘴鱼
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 香煎翘嘴鱼.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 香煎翘嘴鱼.jpeg
 images:
-  - 香煎翘嘴鱼.jpg
+  - 香煎翘嘴鱼.jpeg
 categories:
-  - aquatic
+  - 水产
 ---
 
 

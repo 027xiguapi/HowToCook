@@ -2,11 +2,13 @@
 title: 鸡蛋羹
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 鸡蛋羹.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 微波炉鸡蛋羹.jpg
 images:
+  - 微波炉鸡蛋羹.jpg
   - 鸡蛋羹.jpg
 categories:
-  - vegetable_dish
+  - 素菜
 ---
 
 # 鸡蛋羹的做法

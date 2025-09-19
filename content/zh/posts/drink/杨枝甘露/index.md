@@ -2,11 +2,12 @@
 title: 杨枝甘露
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 杨枝甘露.jpg
 images:
   - 杨枝甘露.jpg
 categories:
-  - drink
+  - 饮料
 ---
 
 # 杨枝甘露的做法

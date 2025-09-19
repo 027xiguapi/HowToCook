@@ -2,11 +2,13 @@
 title: 茭白炒肉
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 茭白炒肉.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 1.jpeg
 images:
-  - 茭白炒肉.jpg
+  - 1.jpeg
+  - 2.jpeg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 茭白炒肉的做法

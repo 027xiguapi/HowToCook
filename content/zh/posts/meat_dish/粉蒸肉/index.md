@@ -2,11 +2,12 @@
 title: 粉蒸肉
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 粉蒸肉.jpg
 images:
   - 粉蒸肉.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 粉蒸肉的做法

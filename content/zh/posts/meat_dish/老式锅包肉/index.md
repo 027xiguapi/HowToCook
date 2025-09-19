@@ -2,11 +2,12 @@
 title: 老式锅包肉
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 老式锅包肉.jpg
 images:
   - 老式锅包肉.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 老式锅包肉的做法

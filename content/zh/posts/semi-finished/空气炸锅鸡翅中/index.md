@@ -1,12 +1,16 @@
+
+
 ---
 title: 空气炸锅鸡翅中
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 空气炸锅鸡翅中.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 鸡翅中_0.jpg
 images:
-  - 空气炸锅鸡翅中.jpg
+  - 鸡翅中_0.jpg
+  - 鸡翅中_1.jpg
 categories:
-  - semi-finished
+  - 半成品加工
 ---
 
 # 空气炸锅鸡翅中的做法

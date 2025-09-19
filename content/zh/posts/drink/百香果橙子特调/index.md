@@ -2,11 +2,13 @@
 title: 百香果橙子特调
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 百香果橙子特调.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: soda-version.jpg
 images:
-  - 百香果橙子特调.jpg
+  - soda-version.jpg
+  - tea-version.jpg
 categories:
-  - drink
+  - 饮料
 ---
 
 # 百香果橙子特调的做法

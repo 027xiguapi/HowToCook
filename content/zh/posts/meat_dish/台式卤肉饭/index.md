@@ -2,11 +2,12 @@
 title: 台式卤肉饭
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 台式卤肉饭.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 1.jpg
 images:
-  - 台式卤肉饭.jpg
+  - 1.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 台式卤肉饭的做法

@@ -2,11 +2,14 @@
 title: 莴笋叶煎饼
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 莴笋叶煎饼.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 1.jpeg
 images:
-  - 莴笋叶煎饼.jpg
+  - 1.jpeg
+  - 2.jpeg
+  - 3.jpeg
 categories:
-  - vegetable_dish
+  - 素菜
 ---
 
 # 莴笋叶煎饼的做法

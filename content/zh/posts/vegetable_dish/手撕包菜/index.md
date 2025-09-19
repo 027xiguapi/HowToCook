@@ -2,11 +2,15 @@
 title: 手撕包菜
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 手撕包菜.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 4.jpeg
 images:
-  - 手撕包菜.jpg
+  - 1.jpeg
+  - 2.jpeg
+  - 3.jpeg
+  - 4.jpeg
 categories:
-  - vegetable_dish
+  - 素菜
 ---
 
 # 手撕包菜的做法

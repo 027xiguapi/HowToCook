@@ -2,11 +2,12 @@
 title: 懒人蛋挞
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 懒人蛋挞.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 懒人蛋挞.png
 images:
-  - 懒人蛋挞.jpg
+  - 懒人蛋挞.png
 categories:
-  - semi-finished
+  - 半成品加工
 ---
 
 # 懒人蛋挞的做法

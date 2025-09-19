@@ -2,11 +2,12 @@
 title: 香菇滑鸡
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 香菇滑鸡.jpg
 images:
   - 香菇滑鸡.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 香菇滑鸡的做法

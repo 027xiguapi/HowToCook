@@ -2,11 +2,12 @@
 title: 奇异果菠菜特调
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 奇异果菠菜特调.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: kiwi-example.jpg
 images:
-  - 奇异果菠菜特调.jpg
+  - kiwi-example.jpg
 categories:
-  - drink
+  - 饮料
 ---
 
 # 奇异果菠菜特调的做法

@@ -2,11 +2,12 @@
 title: 芥末黄油罗氏虾
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 芥末黄油罗氏虾.jpg
 images:
   - 芥末黄油罗氏虾.jpg
 categories:
-  - aquatic
+  - 水产
 ---
 
 # 芥末黄油罗氏虾的做法

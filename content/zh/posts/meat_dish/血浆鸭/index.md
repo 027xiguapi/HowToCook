@@ -2,11 +2,13 @@
 title: 血浆鸭
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 血浆鸭.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 血浆鸭(微辣).jpg
 images:
-  - 血浆鸭.jpg
+  - 血浆鸭(微辣).jpg
+  - 血浆鸭(特辣).jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 血浆鸭的做法

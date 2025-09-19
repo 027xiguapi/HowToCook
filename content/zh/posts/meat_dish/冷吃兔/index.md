@@ -2,11 +2,12 @@
 title: 冷吃兔
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 冷吃兔.jpg
 images:
   - 冷吃兔.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 冷吃兔的做法

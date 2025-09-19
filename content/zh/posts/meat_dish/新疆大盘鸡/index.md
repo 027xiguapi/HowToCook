@@ -2,11 +2,13 @@
 title: 新疆大盘鸡
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 新疆大盘鸡.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 大盘鸡.jpeg
 images:
-  - 新疆大盘鸡.jpg
+  - 大盘鸡.jpeg
+  - 大盘鸡皮带面.jpeg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 新疆大盘鸡的做法

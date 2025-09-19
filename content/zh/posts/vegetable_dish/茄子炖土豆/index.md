@@ -2,11 +2,12 @@
 title: 茄子炖土豆
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 茄子炖土豆.jpg
 images:
   - 茄子炖土豆.jpg
 categories:
-  - vegetable_dish
+  - 素菜
 ---
 
 # 茄子炖土豆的做法

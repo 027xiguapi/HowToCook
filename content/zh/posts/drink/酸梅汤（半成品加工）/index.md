@@ -2,11 +2,12 @@
 title: 酸梅汤（半成品加工）
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 酸梅汤（半成品加工）.jpg
 images:
   - 酸梅汤（半成品加工）.jpg
 categories:
-  - drink
+  - 饮料
 ---
 
 # 酸梅汤（半成品加工）的做法

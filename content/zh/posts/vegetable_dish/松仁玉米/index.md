@@ -2,11 +2,12 @@
 title: 松仁玉米
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 松仁玉米.jpg
 images:
   - 松仁玉米.jpg
 categories:
-  - vegetable_dish
+  - 素菜
 ---
 
 # 松仁玉米的做法

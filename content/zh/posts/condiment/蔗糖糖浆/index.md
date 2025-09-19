@@ -2,11 +2,12 @@
 title: 蔗糖糖浆
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 蔗糖糖浆.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: bottle.jpg
 images:
-  - 蔗糖糖浆.jpg
+  - bottle.jpg
 categories:
-  - condiment
+  - 酱料
 ---
 
 # 蔗糖糖浆的做法

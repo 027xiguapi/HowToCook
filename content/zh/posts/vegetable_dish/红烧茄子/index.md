@@ -2,11 +2,12 @@
 title: 红烧茄子
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 红烧茄子.jpg
 images:
   - 红烧茄子.jpg
 categories:
-  - vegetable_dish
+  - 素菜
 ---
 
 # 红烧茄子的做法

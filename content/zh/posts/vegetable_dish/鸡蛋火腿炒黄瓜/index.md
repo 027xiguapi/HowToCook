@@ -2,11 +2,12 @@
 title: 鸡蛋火腿炒黄瓜
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 鸡蛋火腿炒黄瓜.jpg
 images:
   - 鸡蛋火腿炒黄瓜.jpg
 categories:
-  - vegetable_dish
+  - 素菜
 ---
 
 # 鸡蛋火腿炒黄瓜的做法

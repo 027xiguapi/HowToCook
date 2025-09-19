@@ -2,11 +2,12 @@
 title: 小炒鸡肝
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 小炒鸡肝.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 成品.jpg
 images:
-  - 小炒鸡肝.jpg
+  - 成品.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 小炒鸡肝的做法

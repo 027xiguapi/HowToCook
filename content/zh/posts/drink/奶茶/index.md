@@ -2,11 +2,12 @@
 title: 奶茶
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 奶茶.jpg
 images:
   - 奶茶.jpg
 categories:
-  - drink
+  - 饮料
 ---
 
 # 奶茶的做法

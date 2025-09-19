@@ -1,12 +1,17 @@
+
+
 ---
 title: 葱油桂鱼
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 葱油桂鱼.jpg
 images:
+  - 10.jpg
   - 葱油桂鱼.jpg
+  - 葱油鲈鱼.jpg
 categories:
-  - aquatic
+  - 水产
 ---
 
 # 葱油桂鱼的做法

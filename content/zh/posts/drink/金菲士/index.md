@@ -2,11 +2,12 @@
 title: 金菲士
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 金菲士.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: gin-fizz.jpg
 images:
-  - 金菲士.jpg
+  - gin-fizz.jpg
 categories:
-  - drink
+  - 饮料
 ---
 
 # 金菲士的做法

@@ -2,13 +2,15 @@
 title: B52轰炸机
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: B52轰炸机.jpg
 images:
   - B52轰炸机.jpg
 categories:
-  - drink
+  - 饮料
 ---
 
+<!--more-->
 
 # B52轰炸机的做法
 

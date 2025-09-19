@@ -2,11 +2,12 @@
 title: 带把肘子
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 带把肘子.jpg
 images:
   - 带把肘子.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 带把肘子的做法

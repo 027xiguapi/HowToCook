@@ -2,11 +2,12 @@
 title: 葱煎豆腐
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 葱煎豆腐.jpg
 images:
   - 葱煎豆腐.jpg
 categories:
-  - vegetable_dish
+  - 素菜
 ---
 
 # 葱煎豆腐的做法

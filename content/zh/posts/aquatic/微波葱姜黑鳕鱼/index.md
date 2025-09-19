@@ -2,11 +2,12 @@
 title: 微波葱姜黑鳕鱼
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 微波葱姜黑鳕鱼.jpg
 images:
   - 微波葱姜黑鳕鱼.jpg
 categories:
-  - aquatic
+  - 水产
 ---
 
 # 微波葱姜黑鳕鱼的做法

@@ -2,11 +2,13 @@
 title: 土豆炖排骨
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 土豆炖排骨.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 排骨1.jpg
 images:
-  - 土豆炖排骨.jpg
+  - 排骨1.jpg
+  - 排骨2.jpg
 categories:
-  - meat_dish
+  - 荤菜
 ---
 
 # 土豆炖排骨的做法

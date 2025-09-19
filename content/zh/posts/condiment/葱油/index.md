@@ -2,11 +2,12 @@
 title: 葱油
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 葱油.jpg
 images:
   - 葱油.jpg
 categories:
-  - condiment
+  - 酱料
 ---
 
 # 葱油的做法

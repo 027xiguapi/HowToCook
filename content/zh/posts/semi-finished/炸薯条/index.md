@@ -2,11 +2,12 @@
 title: 炸薯条
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 炸薯条.jpg
 images:
   - 炸薯条.jpg
 categories:
-  - semi-finished
+  - 半成品加工
 ---
 
 # 炸薯条的做法

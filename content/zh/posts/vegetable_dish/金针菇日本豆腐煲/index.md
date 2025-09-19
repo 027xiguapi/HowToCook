@@ -2,11 +2,12 @@
 title: 金针菇日本豆腐煲
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
+avatar: /HowToCook/img/personal/19531547.png
 cover: 金针菇日本豆腐煲.jpg
 images:
   - 金针菇日本豆腐煲.jpg
 categories:
-  - vegetable_dish
+  - 素菜
 ---
 
 # 金针菇日本豆腐煲的做法

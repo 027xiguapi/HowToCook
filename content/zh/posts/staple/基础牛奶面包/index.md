@@ -2,11 +2,21 @@
 title: 基础牛奶面包
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
-cover: 基础牛奶面包.jpg
+avatar: /HowToCook/img/personal/19531547.png
+cover: 1-1成品.jpg
 images:
-  - 基础牛奶面包.jpg
+  - 1-1成品.jpg
+  - 2-1设备简介1.jpg
+  - 2-2设备简介2.jpg
+  - 4-1酵头1.jpg
+  - 4-2酵头2.jpg
+  - 4-3酵头3.jpg
+  - 4-4此时的面团.jpg
+  - 4-5转移到容器内.jpg
+  - 4-6成品面包.jpg
+  - 5-1成品.jpg
 categories:
-  - staple
+  - 主食
 ---
 
 # 基础牛奶面包的做法
