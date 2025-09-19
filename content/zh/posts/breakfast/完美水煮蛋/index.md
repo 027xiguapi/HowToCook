@@ -3,9 +3,9 @@ title: 完美水煮蛋
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
 avatar: /HowToCook/img/personal/19531547.png
-cover: 完美水煮蛋.jpg
+cover: 水煮蛋.webp
 images:
-  - 完美水煮蛋.jpg
+  - 水煮蛋.webp
 categories:
   - 早餐
 ---

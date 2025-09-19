@@ -6,3 +6,6 @@ public
 # hugo
 resources
 .hugo_build.lock
+
+.idea
+.vscode

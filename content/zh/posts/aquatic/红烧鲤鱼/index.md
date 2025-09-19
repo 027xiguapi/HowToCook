@@ -3,9 +3,9 @@ title: 红烧鲤鱼
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
 avatar: /HowToCook/img/personal/19531547.png
-cover: 红烧鲤鱼.jpg
+cover: 红烧鲤鱼.png
 images:
-  - 红烧鲤鱼.jpg
+  - 红烧鲤鱼.png
 categories:
   - 水产
 ---

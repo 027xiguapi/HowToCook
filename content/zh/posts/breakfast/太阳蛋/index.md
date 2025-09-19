@@ -3,9 +3,9 @@ title: 太阳蛋
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
 avatar: /HowToCook/img/personal/19531547.png
-cover: 太阳蛋.jpg
+cover: 太阳蛋.webp
 images:
-  - 太阳蛋.jpg
+  - 太阳蛋.webp
 categories:
   - 早餐
 ---

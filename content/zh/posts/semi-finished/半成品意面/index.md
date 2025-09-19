@@ -3,9 +3,9 @@ title: 半成品意面
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
 avatar: /HowToCook/img/personal/19531547.png
-cover: 半成品意面.jpg
+cover: 意面.webp
 images:
-  - 半成品意面.jpg
+  - 意面.webp
 categories:
   - 半成品加工
 ---
