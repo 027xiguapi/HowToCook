@@ -5,7 +5,7 @@ name: Deploy Hugo site to Pages
 on:
   push:
     branches:
-      - main # 确保这里是你的主要分支名称
+      - dev # 确保这里是你的主要分支名称
   workflow_dispatch:
 
 # 设置 GITHUB_TOKEN 的权限
