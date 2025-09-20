@@ -1,18 +1,18 @@
 ---
-title: 乡村啤酒鸭
+title: 乡村啤酒鸭的做法
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
 avatar: /HowToCook/img/personal/19531547.png
-cover: 乡村啤酒鸭.jpg
+cover: image.png
 images:
-  - 乡村啤酒鸭.jpg
+  - image.png
 categories:
   - 荤菜
 ---
 
 # 乡村啤酒鸭的做法
 
-![乡村啤酒鸭](https://jphuang-image.oss-cn-beijing.aliyuncs.com/beer/duck/%E6%88%90%E5%93%812.jpg)
+![乡村啤酒鸭](./image.png)
 
 将鸭肉与啤酒一同炖煮成菜，使滋补的鸭肉味道更加浓厚，鸭肉不仅入口鲜香，还带有一股啤酒清香。一般初学者只需要 1 小时即可完成。
 

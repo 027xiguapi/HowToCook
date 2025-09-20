@@ -3,9 +3,9 @@ title: 辣椒炒肉
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
 avatar: /HowToCook/img/personal/19531547.png
-cover: 辣椒炒肉.jpg
+cover: image.png
 images:
-  - 辣椒炒肉.jpg
+  - image.png
 categories:
   - 荤菜
 ---

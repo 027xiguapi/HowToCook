@@ -3,9 +3,9 @@ title: 中式馅饼
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
 avatar: /HowToCook/img/personal/19531547.png
-cover: 中式馅饼.jpg
+cover: image.png
 images:
-  - 中式馅饼.jpg
+  - image.png
 categories:
   - 主食
 ---

@@ -3,9 +3,9 @@ title: 炸酱面
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
 avatar: /HowToCook/img/personal/19531547.png
-cover: 炸酱面.jpg
+cover: image.png
 images:
-  - 炸酱面.jpg
+  - image.png
 categories:
   - 主食
 ---

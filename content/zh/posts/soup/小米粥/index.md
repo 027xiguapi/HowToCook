@@ -3,9 +3,9 @@ title: 小米粥
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
 avatar: /HowToCook/img/personal/19531547.png
-cover: 小米粥.jpg
+cover: image.png
 images:
-  - 小米粥.jpg
+  - image.png
 categories:
   - 汤与粥
 ---

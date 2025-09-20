@@ -3,9 +3,9 @@ title: 凉皮
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
 avatar: /HowToCook/img/personal/19531547.png
-cover: 凉皮.jpg
+cover: image.png
 images:
-  - 凉皮.jpg
+  - image.png
 categories:
   - 半成品加工
 ---

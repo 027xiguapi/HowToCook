@@ -3,9 +3,9 @@ title: 可乐桶
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
 avatar: /HowToCook/img/personal/19531547.png
-cover: 可乐桶.jpg
+cover: image.png
 images:
-  - 可乐桶.jpg
+  - image.png
 categories:
   - 饮料
 ---

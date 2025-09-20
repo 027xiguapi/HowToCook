@@ -3,9 +3,9 @@ title: 烤鸡翅
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
 avatar: /HowToCook/img/personal/19531547.png
-cover: 烤鸡翅.jpg
+cover: image.png
 images:
-  - 烤鸡翅.jpg
+  - image.png
 categories:
   - 荤菜
 ---

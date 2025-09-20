@@ -3,9 +3,9 @@ title: 微波炉蛋糕
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
 avatar: /HowToCook/img/personal/19531547.png
-cover: 微波炉蛋糕.jpg
+cover: 微波炉蛋糕.png
 images:
-  - 微波炉蛋糕.jpg
+  - 微波炉蛋糕.png
 categories:
   - 早餐
 ---

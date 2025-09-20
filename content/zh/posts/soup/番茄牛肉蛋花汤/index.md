@@ -3,9 +3,9 @@ title: 番茄牛肉蛋花汤
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
 avatar: /HowToCook/img/personal/19531547.png
-cover: 番茄牛肉蛋花汤.jpg
+cover: image.png
 images:
-  - 番茄牛肉蛋花汤.jpg
+  - image.png
 categories:
   - 汤与粥
 ---

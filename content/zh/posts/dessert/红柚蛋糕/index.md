@@ -3,9 +3,9 @@ title: 红柚蛋糕
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
 avatar: /HowToCook/img/personal/19531547.png
-cover: 红柚蛋糕.jpg
+cover: image.png
 images:
-  - 红柚蛋糕.jpg
+  - image.png
 categories:
   - 甜品
 ---

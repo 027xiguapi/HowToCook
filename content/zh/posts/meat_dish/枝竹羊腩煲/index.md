@@ -3,9 +3,9 @@ title: 枝竹羊腩煲
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
 avatar: /HowToCook/img/personal/19531547.png
-cover: 枝竹羊腩煲.jpg
+cover: image.png
 images:
-  - 枝竹羊腩煲.jpg
+  - image.png
 categories:
   - 荤菜
 ---

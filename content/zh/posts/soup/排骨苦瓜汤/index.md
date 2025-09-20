@@ -3,9 +3,9 @@ title: 排骨苦瓜汤
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
 avatar: /HowToCook/img/personal/19531547.png
-cover: 排骨苦瓜汤.jpg
+cover: image.png
 images:
-  - 排骨苦瓜汤.jpg
+  - image.png
 categories:
   - 汤与粥
 ---

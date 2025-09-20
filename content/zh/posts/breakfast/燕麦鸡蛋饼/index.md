@@ -3,9 +3,9 @@ title: 燕麦鸡蛋饼
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
 avatar: /HowToCook/img/personal/19531547.png
-cover: 燕麦鸡蛋饼.jpg
+cover: image.png
 images:
-  - 燕麦鸡蛋饼.jpg
+  - image.png
 categories:
   - 早餐
 ---

@@ -3,9 +3,9 @@ title: 地三鲜
 date: 2025-08-30T22:36:49+08:00
 author: Anduin2017
 avatar: /HowToCook/img/personal/19531547.png
-cover: 地三鲜.jpg
+cover: image.png
 images:
-  - 地三鲜.jpg
+  - image.png
 categories:
   - 素菜
 ---
