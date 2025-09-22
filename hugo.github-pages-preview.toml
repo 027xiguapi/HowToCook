@@ -61,8 +61,8 @@ images = ["img/global-background.jpg"]
 
 author = "027xiguapi"
 description = "The life record of 027xiguapi is presented here."
-avatar = "img/personal/avatar.jpg"
-headerTitle = "027xiguapi's Blog"
+avatar = "img/icon.png"
+headerTitle = "how to cook"
 motto = "与其感慨路难行，不如马上出发。"
 
 # footerBottomText = ""
@@ -78,7 +78,7 @@ utterancesRepo = "027xiguapi/027xiguapi.github.io"
 # waline = true
 # walineServer = ""
 
-email = "g1enyy0ung@gmail.com"
+email = "458813868@@qq.com"
 
 siteStartYear = 2025
 
