@@ -30,6 +30,14 @@
   <div class="card-body">
     <h2 class="card-title">{{ .Title }}</h2>
 
+    {{ with .Params.tags }}
+      <div class="flex flex-wrap gap-2 mt-2">
+        {{ range . }}
+          <a href="{{ "/tags/" | relURL }}{{ . | urlize }}" class="badge badge-outline">{{ . }}</a>
+        {{ end }}
+      </div>
+    {{ end }}
+
     <p class="date text-base-content/60">
     {{ if site.Params.Experimental.jsDate }}
       <span data-format="luxon">{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}</span>
